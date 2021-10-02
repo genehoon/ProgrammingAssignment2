@@ -1,4 +1,4 @@
-## The object of below functions are compute matrix and inversed matrix, and cache the value to avoid repeatitive calculation.  
+## The object of below functions are to compute a matrix and the inversed matrix, and cache the value to avoid repeatitive calculation.  
 
 
 ## 1. Create a special matrix based on user's input that will be inversed and cached. (The matrix input has to be a square)
